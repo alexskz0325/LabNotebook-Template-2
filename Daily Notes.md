@@ -1,3 +1,4 @@
+#
 # [Date]
 - at the start of every work day, write down THREE things you want to accomplish
 	- these should be small, achievable goals
