@@ -2,6 +2,9 @@
 - at the start of every work day, write down THREE things you want to accomplish
 	- these should be small, achievable goals
 - these tasks should be pulled from [[Priorities]]
+- tester
+- 2
+- fihrdt
 
 ## Daily To Do List
 - [ ] [enter task item here] (we suggest 3 per day)
