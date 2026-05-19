@@ -19,8 +19,11 @@
 # [5/18/2026]
 - wash histology samples in ethanol
 - set up and update go pros
+- learned [oyster maitnence](https://github.com/GWLab-UML/Protocols/tree/main/Oyster_maintenance)
+- did rna laters
+	-
 
 ## to do 
-- [ ] update go pros
-- [ ] help Morgan with ethanol wash
-- [ ] read papers
+- [x] update go pros
+- [x] help Morgan with ethanol wash
+- [ ] rna later
