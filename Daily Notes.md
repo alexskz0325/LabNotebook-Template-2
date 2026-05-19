@@ -27,3 +27,9 @@
 - [x] update go pros
 - [x] help Morgan with ethanol wash
 - [ ] rna later
+
+# [5/19/2026]
+- read papers
+- studied and practiced fish surveys
+- checked and feed oysters
+- rna later
