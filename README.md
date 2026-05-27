@@ -1,7 +1,7 @@
 # LabNotebook-Template
 
-- [MECKAYLA] Lab Notebook in Gignoux-Wolfsohn lab at University of Massachusetts Lowell 
-- Started [May 2026]
+- [NAME] Lab Notebook in Gignoux-Wolfsohn lab at University of Massachusetts Lowell 
+- Started [MONTH YEAR]
 
 - **General Instructions for lab notebook:**
 	- Meeting notes, priorities, daily notes should be set up the same for everyone
@@ -23,8 +23,13 @@
 
 ### Projects
 - *This section is adjustable. Discuss with mentor about how best to organize project notes*
+#### Coral
+- [[Coralnet]]
 #### Oyster
 - [[Shell Weighing]]
+#### Molecular
+- *example - it might make sense for molecular to be its own category or can put subcategory in coral or oyster*
+- [[DNA Extractions]]
 
 
 
