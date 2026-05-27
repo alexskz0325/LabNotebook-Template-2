@@ -26,10 +26,15 @@
 ## to do 
 - [x] update go pros
 - [x] help Morgan with ethanol wash
-- [ ] rna later
+- [x] rna later
 
 # [5/19/2026]
 - read papers
 - studied and practiced fish surveys
 - checked and feed oysters
 - rna later
+
+# [5/27/2026]
+- read artical in joural club
+- lab meeting
+- orginized lab notebook
