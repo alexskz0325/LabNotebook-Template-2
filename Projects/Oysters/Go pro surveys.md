@@ -18,3 +18,6 @@
 		camera was moving a lot and fell over at one point
 
 # [5/29/26]
+- 5/27/2026 observation
+	- GP 30 died during recording on this day, not on next
+- 5/28/2026 observation
