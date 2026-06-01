@@ -38,3 +38,12 @@
 - read artical in joural club
 - lab meeting
 - orginized lab notebook
+
+# [5/29/2026]
+- started organizing go pros
+- added metadata
+- added videos to shuckira
+
+# [6/1/2026]
+- added meta data to video surveys sheet
+- moved videos to shuckira

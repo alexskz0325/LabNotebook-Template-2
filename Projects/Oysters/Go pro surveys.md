@@ -17,7 +17,10 @@
 	-observations
 		camera was moving a lot and fell over at one point
 
-# [5/29/26]
+# [meta data for may 2026]
 - 5/27/2026 observation
 	- GP 30 died during recording on this day, not on next
+	- GP 18 died during recording
 - 5/28/2026 observation
+	- videos longer than first day because of fishing
+	- GP 19 very low visibility
