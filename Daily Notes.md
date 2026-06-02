@@ -49,3 +49,7 @@
 - moved videos to shuckira
 	- GP 25 has 2 entries on cvs but only one video
 	- oys26_11 cant rename videos
+# [6/2/2026]
+- added rest of sd cards
+- weighed winter mortality shells
+- started fish survey

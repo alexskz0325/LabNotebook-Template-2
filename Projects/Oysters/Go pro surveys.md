@@ -21,11 +21,15 @@
 - 5/27/2026 observation
 	- GP 30 died during recording on this day, not on next
 	- GP 18 died during recording
-	- GP 25 had different battery (see cvs notes), and 2 entries with one video, oys26_8
+	- GP 25 had different battery (see cvs notes), and 2 entries with one video, oys26_8,  second entry gone?
 	- SD card from GP 14 cant rename videos, oys26_11
+	- files from GP 1 SD oys26_17 are corrupt
 - 5/28/2026 observation
 	- videos longer than first day because of fishing
 	- GP 19 very low visibility
 	- GP 3 wont turn on, got sd card tho
 	- Battery 23 water loggeg
 	- SD oys26_14 of GP 26 had only video of boat
+	- SD oys26_16 of GP 5 cant rename videos
+
+# [Fish survey notes may 2026]
