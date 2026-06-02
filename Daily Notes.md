@@ -47,3 +47,5 @@
 # [6/1/2026]
 - added meta data to video surveys sheet
 - moved videos to shuckira
+	- GP 25 has 2 entries on cvs but only one video
+	- oys26_11 cant rename videos
