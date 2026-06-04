@@ -57,3 +57,5 @@
 - finished shell weights for may 2026 winter mortality
 - started on fish survey
 - lab and Julia meeting
+# [6/4/2026]
+- scored NSW1 reef a1 videos

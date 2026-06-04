@@ -33,3 +33,7 @@
 	- SD oys26_16 of GP 5 cant rename videos
 
 # [Fish survey notes may 2026]
+- NSW1 A1 
+	- low visability
+	- didnt see anything in vid one, will check again
+	- 
