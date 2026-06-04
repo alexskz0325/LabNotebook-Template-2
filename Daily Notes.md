@@ -53,3 +53,7 @@
 - added rest of sd cards
 - weighed winter mortality shells
 - started fish survey
+# [6/3/2026]
+- finished shell weights for may 2026 winter mortality
+- started on fish survey
+- lab and Julia meeting
