@@ -33,7 +33,10 @@
 	- SD oys26_16 of GP 5 cant rename videos
 
 # [Fish survey notes may 2026]
--  
+-  NSF1 A1
+	- at 44:12 big wave shakes camera in vid 1
+	-  2 three spined stickleback in vid 1
+	- lots of moon jellies in vid 2
 - NSW1 A1 
 	- low visability
 	- didnt see anything in vid one, will check again
