@@ -37,6 +37,9 @@
 	- at 44:12 big wave shakes camera in vid 1
 	-  2 three spined stickleback in vid 1
 	- lots of moon jellies in vid 2
+	- moon jellies may actualy be clinig jellies, its hard to tell appart sometimes
+- NSF1 B1
+	- 
 - NSW1 A1 
 	- low visability
 	- didnt see anything in vid one, will check again
