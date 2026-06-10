@@ -20,7 +20,7 @@
 - Running list of tasks/priorities
 [[Daily Notes]]
 - Daily to do list/goals
-
+[Go pro surveys](Projects/Oysters/Go%20pro%20surveys.md)
 ### Projects
 - *This section is adjustable. Discuss with mentor about how best to organize project notes*
 #### Oyster

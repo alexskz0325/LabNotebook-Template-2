@@ -59,3 +59,9 @@
 - lab and Julia meeting
 # [6/4/2026]
 - scored NSW1 reef a1 videos
+# [6/10/2026]
+- add new folder in drive of trimmed videos in each sub section
+- scored vids rowley
+- fixed sd card placement cvs
+- started histology packing
+- 
