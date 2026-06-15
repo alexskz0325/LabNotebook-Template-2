@@ -65,3 +65,6 @@
 - fixed sd card placement cvs
 - started histology packing
 - 
+
+# [6/11/2026]
+- scored rowley cage videos

@@ -39,7 +39,9 @@
 	- lots of moon jellies in vid 2
 	- moon jellies may actualy be clinig jellies, its hard to tell appart sometimes
 - NSF1 B1
-	- 
+	- saw clinging jelly, an invasive species to mass
+	- lots of moon jellies
+	- more 3 spined stickelbacks
 - NSW1 A1 
 	- low visability
 	- didnt see anything in vid one, will check again
