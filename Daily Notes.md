@@ -68,3 +68,7 @@
 
 # [6/11/2026]
 - scored rowley cage videos
+# [6/12/2026]
+- oyster cage clean
+- packed histology
+- scored videos
