@@ -72,3 +72,7 @@
 - oyster cage clean
 - packed histology
 - scored videos
+# [6/16/2026]
+- made stock for histology
+- scored videos
+- packed for field days
