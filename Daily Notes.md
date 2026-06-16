@@ -73,6 +73,7 @@
 - packed histology
 - scored videos
 # [6/16/2026]
-- made stock for histology
+- made stock for histology, julia did it but told me how tofor future
 - scored videos
 - packed for field days
+- oyster water chem

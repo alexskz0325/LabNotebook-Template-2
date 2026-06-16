@@ -41,9 +41,12 @@
 - NSF1 B1
 	- saw clinging jelly, an invasive species to mass
 	- lots of moon jellies
-	- more 3 spined stickelbacks
+	- more 3 spined sticklebacks
+	- low visibility in anything farther than the rope in the middle
 - NSW1 A1 
 	- low visability
-	- didnt see anything in vid one, will check again
+	- didn't see anything in vid one, will check again
 	- no animals on videos
+- NSM1 A1
+	- 
 
