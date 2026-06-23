@@ -77,3 +77,6 @@
 - scored videos
 - packed for field days
 - oyster water chem
+
+# [6/22/2026]
+- finished NSF1 videos and started NSM1 A1
