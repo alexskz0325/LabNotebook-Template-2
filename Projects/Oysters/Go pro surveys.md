@@ -49,4 +49,7 @@
 	- no animals on videos
 - NSM1 A1
 	- crab fight
+	- lots of hermit crabs
+	- some green and horse shoe crabs
+	- looks like a dead horse shoe crab in bottom left corner
 
