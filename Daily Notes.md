@@ -82,3 +82,6 @@
 - finished NSF1 videos and started NSM1 A1
 # [6/23/2026]
 - scored NSM1 a1
+# [6/25/26]
+- finished scoring NSM1 videos
+- looked for articales on oyster reef biodiversity

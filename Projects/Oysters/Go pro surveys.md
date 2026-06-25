@@ -52,4 +52,6 @@
 	- lots of hermit crabs
 	- some green and horse shoe crabs
 	- looks like a dead horse shoe crab in bottom left corner
+	- good vew of mud flat
+	- good visability in water
 
