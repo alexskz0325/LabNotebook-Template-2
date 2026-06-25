@@ -54,4 +54,5 @@
 	- looks like a dead horse shoe crab in bottom left corner
 	- good vew of mud flat
 	- good visability in water
+	- at 1:20 in vid 2 there is a huge tumble weed thing
 
