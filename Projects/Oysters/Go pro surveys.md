@@ -55,4 +55,8 @@
 	- good vew of mud flat
 	- good visability in water
 	- at 1:20 in vid 2 there is a huge tumble weed thing
-
+- NSM1 A2
+	- good visibility
+	- lots of tumble weeds
+	- lots of hermit crabs
+	- 
