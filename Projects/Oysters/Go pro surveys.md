@@ -59,4 +59,4 @@
 	- good visibility
 	- lots of tumble weeds
 	- lots of hermit crabs
-	- 
+	- striper!!!
