@@ -64,3 +64,6 @@
 	- switch vid 1 and vid 2
 	- lower visibility than other vid of mud flat
 	- visibility gets worse in second vid
+- NSM1 B2
+	- iffy visibility
+	- 
