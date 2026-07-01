@@ -85,3 +85,13 @@
 # [6/25/26]
 - finished scoring NSM1 videos
 - looked for articales on oyster reef biodiversity
+# [6/26/2026]
+- scored videos
+- looked for articles
+# [6/29/2026]
+- scored NSM1 a1 and a2 videos
+
+# [6/30/2026]
+- scored NSM1 B1 videos
+# [7/1/2026]
+- scored NSM1 B2 and c1 vids
