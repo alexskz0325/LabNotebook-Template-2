@@ -66,4 +66,5 @@
 	- visibility gets worse in second vid
 - NSM1 B2
 	- iffy visibility
-	- 
+	- crab fight in vid 2
+	- towards end a crab uses rock tp take off barnicles
