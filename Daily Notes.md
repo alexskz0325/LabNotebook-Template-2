@@ -95,3 +95,6 @@
 - scored NSM1 B1 videos
 # [7/1/2026]
 - scored NSM1 B2 and c1 vids
+# [7/6/2026]
+- water chem for oysters
+- scored vides
