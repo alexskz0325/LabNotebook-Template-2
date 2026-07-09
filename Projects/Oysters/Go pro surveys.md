@@ -68,3 +68,7 @@
 	- iffy visibility
 	- crab fight in vid 2
 	- towards end a crab uses rock tp take off barnicles
+	- more crab fight
+	- mating horse shoe crabs
+- NSM1 C1
+	- 
