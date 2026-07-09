@@ -98,3 +98,7 @@
 # [7/6/2026]
 - water chem for oysters
 - scored vides
+# [7/9/2026]
+- scored NSM1 c videos
+- looked for articles
+-  started coming up with ideas for data

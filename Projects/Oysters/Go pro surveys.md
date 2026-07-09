@@ -71,4 +71,5 @@
 	- more crab fight
 	- mating horse shoe crabs
 - NSM1 C1
+	- good visability
 	- 
