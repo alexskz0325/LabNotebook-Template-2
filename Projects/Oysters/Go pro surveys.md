@@ -72,4 +72,5 @@
 	- mating horse shoe crabs
 - NSM1 C1
 	- good visability
-	- 
+		- gets less as vid go on
+	- lots of horse shoe crabs matting
