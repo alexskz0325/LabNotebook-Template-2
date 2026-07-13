@@ -73,4 +73,7 @@
 - NSM1 C1
 	- good visability
 		- gets less as vid go on
+		- very bad by part 3
 	- lots of horse shoe crabs matting
+- NSM1 C2
+	- camera at an angle

@@ -102,3 +102,6 @@
 - scored NSM1 c videos
 - looked for articles
 -  started coming up with ideas for data
+# [7/10/2026]
+- scored NSM1 c1
+- looked for articles
