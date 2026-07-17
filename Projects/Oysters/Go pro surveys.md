@@ -77,3 +77,13 @@
 	- lots of horse shoe crabs matting
 - NSM1 C2
 	- camera at an angle
+	- visibility gets worse as videos go on
+- NSW1 A1
+	- no animals seen
+	- last video cut to 10 min for working time
+- NSW1 A2
+	- very low visibility
+- NSW1 B1
+- NSW1 B2
+- NSW1 C1
+- NSW1 C2

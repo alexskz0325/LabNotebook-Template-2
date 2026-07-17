@@ -105,3 +105,8 @@
 # [7/10/2026]
 - scored NSM1 c1
 - looked for articles
+# [7/13/26]
+- scored videos
+# [7/16/2026]
+- cleaned oyster tanks
+- scored videos
