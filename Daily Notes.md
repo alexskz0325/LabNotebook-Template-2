@@ -110,3 +110,6 @@
 # [7/16/2026]
 - cleaned oyster tanks
 - scored videos
+# [7/17/2026]
+- looked for articles on green crabs
+- scored videos

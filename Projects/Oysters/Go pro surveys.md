@@ -83,7 +83,7 @@
 	- last video cut to 10 min for working time
 - NSW1 A2
 	- very low visibility
-- NSW1 B1
+	- cut last vid to 10 min working time
 - NSW1 B2
 - NSW1 C1
 - NSW1 C2
