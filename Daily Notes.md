@@ -113,3 +113,6 @@
 # [7/17/2026]
 - looked for articles on green crabs
 - scored videos
+# [7/20/2026]
+- scored nsw1 b videos
+- looked for greatest hits for sarahs grant

@@ -85,5 +85,10 @@
 	- very low visibility
 	- cut last vid to 10 min working time
 - NSW1 B2
+	- on an angle
+	- ok visibility, gets worse farther out
 - NSW1 C1
 - NSW1 C2
+- NSF2 A1
+- NSF2 B1
+- NSF2 C1
