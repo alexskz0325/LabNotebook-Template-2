@@ -87,6 +87,7 @@
 - NSW1 B2
 	- on an angle
 	- ok visibility, gets worse farther out
+	- may have seen rock pool shrimp
 - NSW1 C1
 - NSW1 C2
 - NSF2 A1
